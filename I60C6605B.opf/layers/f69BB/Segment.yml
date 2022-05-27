@@ -1,0 +1,9 @@
+id: 9781324134cf426c9b69ef3c52d2de89
+annotation_type: Segment
+revision: '00001'
+annotations:
+  12de7f7bd29b4d1c97463c9a580105bf:
+    span:
+      start: 0
+      end: 9
+    metadata: {}
